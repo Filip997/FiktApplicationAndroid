@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fikt-application-android</string>
+    <string name="pobaraj">Pobaraj</string>
+    <string name="vnesi">Vnesi</string>
+    <string name="reset">Reset</string>
+    <string name="vnesi_novo_kopche">Vnesi novo kopche</string>
+    <string name="leb">Leb</string>
+    <string name="kashkaval">Kashkaval</string>
+    <string name="salama">Salama</string>
+    <string name="pashteta">Pashteta</string>
+    <string name="pivo">Pivo</string>
+    <string name="sok">Sok</string>
+</resources>
